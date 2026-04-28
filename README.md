@@ -5,9 +5,9 @@ Este repositorio contiene la documentación técnica y el diseño de la base de 
 ## 📂 Contenido del Repositorio
 
 Además de esta presentación, en el repositorio encontrarás los archivos originales:
-* `Diagrama_ER_RoomMi.png`: Imagen del diseño de la base de datos.
-* `Diagrama_de_flujo_...drawio`: Archivo fuente para editar en Draw.io.
-* `Presupuesto_RoomMi.pdf`: Detalle de costes de hardware y software.
+* `Diagrama de flujo de Proyecto Intermodular-Enrique`: Archivo fuente para editar en Draw.io.
+* `Reto 05-Enrique Soriano`: Detalle de costes de hardware y software.
+* `BD Completa Proyecto 1 DAM-Enrique`: Archivo donde se encuentra el script SQL con tablas y datos.
 
 ---
 
@@ -20,9 +20,6 @@ El núcleo del proyecto es una base de datos relacional diseñada para soportar 
 * **Sistema de Reservas:** Relaciona a los usuarios con las habitaciones en fechas concretas.
 * **Mensajería interna:** Flujo de mensajes entre emisores y receptores dentro de chats.
 * **Valoraciones:** Sistema de feedback vinculado a cada estancia realizada.
-
-### Diagrama Entidad-Relación (E-R)
-
 
 ---
 
